@@ -1,5 +1,5 @@
-👋 Olá, sou o Fábio Venturini, bacharel em Ciência da Computação atuando como Desenvolvedor de Software, 
-   com mais de 15 anos de atuação, desenvolvendo soluções Mobile, Desktop e WEB. 
+👋 Olá, sou o Fábio Venturini, Bacharel em Ciência da Computação atuando como Desenvolvedor de Software, 
+   a mais de 15 anos, desenvolvendo soluções Mobile, Desktop e WEB. 
    Tive a grande oportunidade de conhecer e desenvolver soluções para diversos segmentos do Comércio varejista e Industrial.
 
 - sou um amante em desenvolvimento de sistemas e inovações tecnologicas.
